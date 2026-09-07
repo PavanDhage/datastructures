@@ -1,3 +1,5 @@
+package test1;
+
 public class test1 {
 
     static double quadaratic(String arg0, String arg1){

@@ -1,3 +1,5 @@
+package test1;
+
 public class FactoringInteger {
      static void main(String[] args)
     { // Print the prime factors of N.

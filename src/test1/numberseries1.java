@@ -1,3 +1,5 @@
+package test1;
+
 public class numberseries1 {
 
     // fibonccci number to trace code learn

@@ -1,3 +1,5 @@
+package test1;
+
 public class Loop_controls {
 
     public static String coinFlip() {

@@ -1,3 +1,5 @@
+package test1;
+
 public class GamblersRuin {
     public static void main(String[] args) { // Run T experiments that start with $stake
 // and terminate on $0 or Sgoal.

@@ -1,3 +1,5 @@
+package test1;
+
 public class ToBinary
 {
     // prints binary representation on N
