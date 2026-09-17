@@ -5,7 +5,7 @@ import java.sql.SQLOutput;
 public class HcfLcm {
 
     static void main() {
-        int a=60, b = 20;
+        int a=12, b = 20;
 
         // find hcf of the two numbers
 
